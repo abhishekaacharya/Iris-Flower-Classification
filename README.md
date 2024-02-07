@@ -4,7 +4,7 @@ The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multip
 
 It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.
 
-The following description is taken from UCI Machine Learning Repository. 
+ 
 This is perhaps the best known database to be found in the pattern recognition literature. Fisher's paper is a classic in the field and is referenced frequently to this day. (See Duda & Hart, for example.) The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
 
 Predicted attribute: class of iris plant.
