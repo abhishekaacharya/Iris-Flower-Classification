@@ -18,4 +18,3 @@ model_svc.fit(inputs_train, outputs_train)
 prediction1 = model_svc.predict(inputs_test)
 print(accuracy_score(outputs_test, prediction1))
 
-# Mo
